@@ -3,6 +3,7 @@
 	width: 500px;
 	height: 700px;
 	margin: 0 auto;
+	border: solid 2px #000;
 	background-color: turquoise;
 }
 
@@ -13,5 +14,6 @@
 	margin: 0 auto;
 	border: solid 2px #000;
 	background-color: pink;
-	color: black;		
+	color: black;
+	align-text: center;
 }
