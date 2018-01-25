@@ -1,0 +1,19 @@
+.caja1 {
+
+	width: 500px;
+	height: 700px;
+	margin: 0 auto;
+	border: solid 2px #000;
+	background-color: turquoise;
+}
+
+.caja2 {
+
+	width: 500px;
+	height: 700px;
+	margin: 0 auto;
+	border: solid 2px #000;
+	background-color: pink;
+	color: black;
+	text-align: center;
+}
