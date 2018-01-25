@@ -4,7 +4,8 @@
 	height: 700px;
 	margin: 0 auto;
 	border: solid 2px #000;
-	background-color: turquoise;
+	background-color: pink;
+
 }
 
 .caja2 {
@@ -13,7 +14,8 @@
 	height: 700px;
 	margin: 0 auto;
 	border: solid 2px #000;
-	background-color: pink;
+	background-color: turquoise;
 	color: black;
 	text-align: center;
+
 }
